@@ -4,4 +4,4 @@ NPM     : 2106750894
 
 Kelas   : B
 
-Hobi    : Nguli Genshin
+Hobi    : Bengong
